@@ -110,9 +110,10 @@ Later extensions are Doppler radial velocity, Kalman smoothing, and tests across
 ## Authors
 
 Seetharam Killivalavan, Rohith Arumugam Suresh and Keya Kesani
-School of Computer Science, Carnegie Mellon University
-
 **Mentors:** Sarthak Bisht and Yixiong Fang
+
+
+Kenneth C. Griffin School of Computer Science, Carnegie Mellon University
 
 <!-- ## Acknowledgments
 
