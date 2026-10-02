@@ -1,0 +1,10 @@
+# Planned dependencies for later implementation.
+# Nothing in this repo imports these yet. Versions are unpinned on purpose.
+
+numpy
+scipy
+torch
+torchaudio
+pyroomacoustics
+librosa
+matplotlib

@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# recordings, simulations, and training artifacts
+data/**
+!data/README.md
+experiments/**
+!experiments/README.md
+*.wav
+*.flac
+*.pt
+*.pth
+*.ckpt
+wandb/
