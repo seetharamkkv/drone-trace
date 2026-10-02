@@ -2,21 +2,13 @@
 
 Recover a drone’s trajectory from the sound it makes.
 
-**11-785 Introduction to Deep Learning, Carnegie Mellon University. Team 3.**
+**11-785 Introduction to Deep Learning, Carnegie Mellon University.**
 
 | | |
 | --- | --- |
 | **GitHub repo** | `dronetrace` |
 | **Repo description** | DroneTrace: acoustic drone trajectory reconstruction. |
 | **Status** | Proposal skeleton. No model, baseline, or result has been implemented. |
-
-## Team
-
-- Seetharam Killivalavan (`skilliva@andrew.cmu.edu`)
-- Rohith Arumugam Suresh (`rohithas@andrew.cmu.edu`)
-- Keya Kesani (`kkesani@andrew.cmu.edu`)
-
-**Mentors:** Sarthak Bisht and Yixiong Fang
 
 ## Problem
 
@@ -114,3 +106,14 @@ Later extensions are Doppler radial velocity, Kalman smoothing, and tests across
 ```
 
 `requirements.txt` lists libraries we expect to use later. They are not pinned, and this repository does not import them yet.
+
+## Authors
+
+Seetharam Killivalavan, Rohith Arumugam Suresh and Keya Kesani
+School of Computer Science, Carnegie Mellon University
+
+**Mentors:** Sarthak Bisht and Yixiong Fang
+
+<!-- ## Acknowledgments
+
+Carnegie Mellon University, the Language Technologies Institute, Bradley Warren, and Professor Bhiksha Raj for research guidance and support. -->
